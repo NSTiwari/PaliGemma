@@ -1,0 +1,17 @@
+
+## Dependencies
+
+- Python 3.6+
+- `bitsandbytes`
+- `transformers`
+- `accelerate`
+- `peft`
+- `huggingface_hub`
+- `torch`
+- `Pillow`
+- `opencv-python`
+- `numpy`
+
+Install the dependencies using:
+```sh
+pip install -r requirements.txt
