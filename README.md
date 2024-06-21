@@ -10,7 +10,7 @@ This repository contains examples of using PaliGemma for tasks such as object de
 
 
 
-
+## Citation
 If you find this project useful for your work, please cite it using the following BibTeX entry:
 
 ```
