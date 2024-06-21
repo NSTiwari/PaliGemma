@@ -1,5 +1,5 @@
 # PaliGemma
-This repository contains examples of using PaliGemma for tasks such as object detection, segmentation, image captioning, etc.
+[This repository contains examples of using PaliGemma for tasks such as object detection, segmentation, image captioning, etc.](https://github.com/NSTiwari/PaliGemma/blob/main/ZeroShot_Object_Detection_in_videos.ipynb)
 
 ## Zero-shot Object Detection in videos
 #### *Prompt:* _Detect person, phone, bottle_
