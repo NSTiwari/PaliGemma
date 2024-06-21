@@ -6,7 +6,7 @@ This repository contains examples of using PaliGemma for tasks such as object de
 <img src="https://github.com/NSTiwari/PaliGemma/blob/main/assets/ZeroShot_Object_Detection_PaliGemma.gif"/>
 
 
-## Zero-shot OBject Detection in images
+## Zero-shot Object Detection in images
 
 
 
