@@ -7,3 +7,17 @@ This repository contains examples of using PaliGemma for tasks such as object de
 
 
 ## Zero-shot OBject Detection in images
+
+
+
+
+If you find this project useful for your work, please cite it using the following BibTeX entry:
+
+@misc{PaliGemma-Examples,
+  author       = {Nitin Tiwari},
+  title        = {PaliGemma Examples},
+  year         = {2024},
+  publisher    = {GitHub},
+  howpublished = {\url{https://github.com/NSTiwari/PaliGemma}},
+}
+
