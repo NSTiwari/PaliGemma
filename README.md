@@ -9,6 +9,14 @@ This repository contains examples of using PaliGemma for tasks such as object de
 #### *Prompt:* _Detect person, car_
 <img src="https://github.com/NSTiwari/PaliGemma/blob/main/assets/ZeroShot_Object_Detection_PaliGemma_image.jpg"/>
 
+## [Segmentation in videos](https://github.com/NSTiwari/PaliGemma/blob/main/ZeroShot_Object_Detection_in_images.ipynb)
+#### *Prompt:* _Segment person, mug, book_
+<img src="https://github.com/NSTiwari/PaliGemma/blob/main/assets/Reference_Expression_Segmentation_video_PaliGemma.gif"/>
+
+## [Segmentation in images](https://github.com/NSTiwari/PaliGemma/blob/main/ZeroShot_Object_Detection_in_images.ipynb)
+#### *Prompt:* _Segment person, car_
+<img src="https://github.com/NSTiwari/PaliGemma/blob/main/assets/Reference_Expression_Segmentation_images_PaliGemma.png"/>
+
 
 
 ## Citation
