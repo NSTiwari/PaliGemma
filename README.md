@@ -5,8 +5,9 @@ This repository contains examples of using PaliGemma for tasks such as object de
 #### *Prompt:* _Detect person, phone, bottle_
 <img src="https://github.com/NSTiwari/PaliGemma/blob/main/assets/ZeroShot_Object_Detection_PaliGemma.gif"/>
 
-
-## Zero-shot Object Detection in images
+## [Zero-shot Object Detection in images](https://github.com/NSTiwari/PaliGemma/blob/main/ZeroShot_Object_Detection_in_images.ipynb)
+#### *Prompt:* _Detect person, car_
+<img src="https://github.com/NSTiwari/PaliGemma/blob/main/assets/ZeroShot_Object_Detection_PaliGemma_image.jpg"/>
 
 
 
